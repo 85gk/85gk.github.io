@@ -1,6 +1,5 @@
 <h1>Guddoo kumar Gupta: <b>My Website</b></h1>
 <p>
-View it here: <a href="http://85gk.net">85gk.net </a><br><br>
 <br>Hope you like it!</p>
 <br>
 
